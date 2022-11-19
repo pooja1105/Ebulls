@@ -1,0 +1,46 @@
+.navbarButtonaa {
+
+   
+    filter: drop-shadow(0px 13px 27px rgba(0, 0, 0, 0.25));
+  border: none;
+    height: 50px;
+    width: 160px;
+    background: transparent;
+    color: white;
+    padding-left: -20px;
+
+}
+
+.navlogoaa {
+
+    position: relative;
+    top: 20px;
+}
+.navbarbackgroundaa{
+    background: black;
+    height: 150px;
+
+}
+.navbarButton11 {
+
+   
+    filter: drop-shadow(0px 13px 27px rgba(0, 0, 0, 0.25));
+  border: none;
+    height: 50px;
+    width: 160px;
+    background: transparent;
+    color: white;
+    padding-left: -20px;
+
+}
+
+.navlogo11{
+
+    position: relative;
+    top: 20px;
+}
+.navbarbackground11{
+    background: black;
+    height: 150px;
+
+}
